@@ -37,6 +37,7 @@ dependencies:
   rxdart: ^0.22.0
   json_annotation: ^2.0.0
   provider: ^4.1.0
+  flutter_swiper: ^1.1.6 #轮播插件
 
 dev_dependencies:
   build_runner: ^1.0.0
@@ -70,6 +71,7 @@ flutter:
      - assets/images/tabbar_shopcart_unselected.png
      - assets/images/tabbar_mine_selected.png
      - assets/images/tabbar_mine_unselected.png
+     - assets/images/home_page_top_back.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
